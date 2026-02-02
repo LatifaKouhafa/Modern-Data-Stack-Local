@@ -15,8 +15,6 @@ It showcases core data engineering skills:
 
 All components are containerized and reproducible.
 
----
-
 ## 🛠 Tech Stack
 
 - **Python** – data ingestion & cleaning  
